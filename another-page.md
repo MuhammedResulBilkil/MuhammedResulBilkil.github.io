@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Başka Bir Sayfa
+description: Yalnızca Başka Bir Sayfa
 ---
 
 ## Welcome to another page
